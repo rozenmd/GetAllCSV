@@ -5,7 +5,7 @@ import urllib2
 DOWNLOADS_DIR = '/Volumes/Macintosh HD/Dropbox/Projects/Javascript/d3/maxrozen.com/PyGetCSV/downloaded'
 
 # For every line in the file
-input_file = open(‘urls.txt’, 'r')
+input_file = open('untitled.txt', 'r')
 count_lines = 0
 for line in input_file:
     print line
